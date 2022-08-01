@@ -32,7 +32,7 @@ cat << EOF > /usr/local/etc/xray/config.json
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/"
+          "path": "/cdsu65876jyyfgf"
         }
       }
     }
